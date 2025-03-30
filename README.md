@@ -1,3 +1,10 @@
+
+
+
+![Chocolate Factory](https://github.com/user-attachments/assets/c5609b07-9efb-48ee-ab6f-69ac1bf25c74)![Chocolate Factory2](https://github.com/user-attachments/assets/ea6c26a7-c3c3-4190-b150-8ace29f89f04)
+
+
+
 # 🍫 Chocolate Factory Sales Dashboard - Power BI 📊  
 
 ## Overview  
